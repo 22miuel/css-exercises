@@ -58,7 +58,7 @@
     padding: 0;
     gap: 18px
   }
-  .left-links, .rigth-links{
+  a{
     text-decoration: none;
     color: black;
   }
